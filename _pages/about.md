@@ -43,11 +43,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.09* First Prize Scholarship in Sichuan University
+- *2022.06* Student Mock Entrepreneurship Competition(Third Prize)
+- *2021.09* Pro Bono Future-Citi Youth Competition(Fourth Place)
+- *2021.10* Interdisciplinary Contest in Modeling(Third Prize)
 # 📖 Educations
-- *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Undergraduate, Electrical Engineering College, Sichuan Univeristy, Chengdu. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
