@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Projects**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.06* Student Mock Entrepreneurship Competition(Third Prize)
 - *2021.09* Pro Bono Future-Citi Youth Competition(Fourth Place)
 - *2021.10* [Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)(Third Prize)
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2024.06*, Undergraduate, Electrical Engineering College, Sichuan Univeristy, Chengdu. 
 
 # 💻 Internships
