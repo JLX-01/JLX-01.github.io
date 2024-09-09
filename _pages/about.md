@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xiaoxuan Li. I received my B.Eng degree in automation at Sichuan University<https://en.scu.edu.cn/>, China. Here you will learn more about me, my journey and my passion for user experience research. Thank you for visiting!
+I'm Xiaoxuan Li. I received my B.Eng degree in automation at [Sichuan University](https://en.scu.edu.cn/), China. Here you will learn more about me, my journey and my passion for user experience research. Thank you for visiting!
 
 My research interest includes neural machine translation and computer vision.
 
