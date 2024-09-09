@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there!  I'm Xiaoxuan Li. I received my B.Eng degree in Automation at [Sichuan University](https://en.scu.edu.cn/), China. Here you will learn more about me, my journey and my passion for user experience research. Thank you for visiting!
 
-My research involves big data (medical image and electronic records) using Machine Learning and Deep Learning. I am broadly interested in Machine Learning, Deep Learning, Artificial Intelligence motivated by important applications. Also, I am interested human-computer interaction. I believe that interdisciplinary research approaches will continue to evolve and improve.
+My research involves big data (especially in medical image and electronic health records) using Machine Learning and Deep Learning. I am broadly interested in Machine Learning, Deep Learning, Artificial Intelligence motivated by important applications. Also, I am interested human-computer interaction. I believe that interdisciplinary research approaches will continue to evolve and improve.
 
 
 # 🔥 News
