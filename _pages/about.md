@@ -34,7 +34,8 @@ My research involves big data (especially in medical image and electronic health
 - *2021.10* [Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)(Third Prize)
 
 # 📖 Education
-- *2020.09 - 2024.06*, Undergraduate, Electrical Engineering College, Sichuan Univeristy, Chengdu. 
+- *2024.09 - 2029(expected)*, Ph.D., Biomedical Engineering, Tulane Univeristy, New Orleans, US. 
+- *2020.09 - 2024.06*, Undergraduate, Electrical Engineering College, Sichuan Univeristy, Chengdu, China. 
 
 # 💻 Internships
 - *2023.06 - 2023.09*, [Sichuan Changhong Electric Co.,Ltd.](http://www.changhong.com.cn/index.html), China.
