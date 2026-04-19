@@ -3,39 +3,63 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+## About Me
 
-Hi there!  I'm Xiaoxuan Li. I am a Ph.D. student at Tulane University since 2024 Fall. I received my B.Eng degree in Automation at College of Electrical Engineering, [Sichuan University](https://en.scu.edu.cn/), China. Here you will learn more about me, my interests and  passion for research. You can find my CV here: [Xiaoxuan Li's Curriculum Vitae](../docs/CV.pdf) Thank you for visiting! 
+I am a Ph.D. student in Biomedical Engineering at Tulane University, advised by Prof. Yu-Ping Wang. My research develops statistically grounded machine learning methods for complex, repeated-measures neuroimaging and multimodal health data, with an emphasis on subject-specific variability, latent and nonlinear mixed-effects modeling, and interpretable, data-efficient biomarker discovery.
 
-My research involves big data (especially in medical image and electronic health records) using Machine Learning and Deep Learning. I am broadly interested in Machine Learning, Deep Learning, Artificial Intelligence motivated by intelligent analysis and applications. I believe that interdisciplinary research approaches will continue to evolve and improve.
+Before joining Tulane, I received my B.Eng. in Automation from Sichuan University, where I worked on psychiatric neuroimaging and individualized functional connectivity analysis in chronic insomnia and related disorders.
 
+You can find my [CV](../docs/CV.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=wD0ioQYAAAAJ), and [GitHub](https://github.com/JLX-01) here. I am also a member of the [Multiscale Bioimaging and Bioinformatics Laboratory (MBB)](https://www2.tulane.edu/~wyp/Home.html) at Tulane University.
 
-# 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper [Personalized Functional Network Connectivity Abnormalities in Chronic Insomnia Disorder](https://watermark02.silverchair.com/kkag001.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2IwggNeBgkqhkiG9w0BBwagggNPMIIDSwIBADCCA0QGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMdQwvCn0MJJmo1Vf4AgEQgIIDFQiR2Q_4tnfma4x6j0daVJ8ap-uyV0ItmgiPYiqEDJuQfOFGKVftqStDjrHpd3crYuzqwwaMPF7KaHBfvx5-pWUVW3WTX021fyl8_l2vtrvEBjSQrjqx1IStOfKprcMpxZT_wrFBXdWMovt38nTva4zxvkwkneT6Nf6N-Ft4k1K2bqLEhNolylOivF-Q6Q-0SymHbjyqvaX354nFW-X-8SThM6H2UVgtrI7xFdshVh4CCc0-QawMD3CUoztIr0JDp2NFLTUC_N5cacLPf466HuxqBl2U1nPsqr8EBG2RpAlWeiVJHsRicdA0kUmsJUb8a21RXlo4avKRIZzeko6y7OBiLEVqaQYRp6WeV_kE5l5D9L6sTJh_bGW301EGdj9KyyHUcYXhfgxguJhmL5ZtZlXPvJ0yZrNGWQp66UhbSCzwwtvV7hUy1bhyEW1qVXL0nH4nfGDjU7EW6oGUbVuV_0Wg5CpvJ-rVj9iGqsgLFAfQp5b1bOAJ-6CZEhaHws5Dwk0y9v9PJRA_GYfUU0MpYdObgkBiWcaQRZazmRW1L143ADOc3LKaUDSp0ryqsVsJ9TwuiK1XAbUZsj17HmDvfngyXtXHMn-dtgYJ4w-4jyfgZRjh4m-VOcenYKmwjjPDxdrWq5kkMpw7nx9QSUiSf3EyoVD5GvE4gK1vW_Qhu9jvIzQqg_dnfeQK0Yzurb0cGT7RuETvsn6Hvjv98uRuHpkrXM2SFoVGMXyxpvR68dEnhxMYkLZArefC3uCHp008EQtHcmyoQRokiqauV-ChBwE6nP8J9_oqey3cYQdAD92eNsroeS0-U-__szgJ6KmGy1uagB3ke3RLhrTa_kQlmZOFjc10VXO5knQVAoxVJ0ug9yL125iTajnHferXV3ruDQqKspyuUJkIO4FEzMFXPfB3Ay-aGo0_rkNArGBICKe7cpkknxlOnUxqnfO6PKhG2pk_7lhg55rbWcLQQ0-SFwPvxYr8OJHuCKgbAOEuoppZIdJtpkRPbRevkCfeHmqA1FPrMpwmSRfmZzKZlWGpvrsz6C_dRA) has been accepted to [Psychoradiology](https://academic.oup.com/psyrad).
-- *2024.08*: &nbsp;🎉🎉 One paper [Functional Connectome gradient predicts clinical symptoms of chronic insomnia disorder](https://pdf.sciencedirectassets.com/271215/1-s2.0-S0278584624X00056/1-s2.0-S027858462400188X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECAaCXVzLWVhc3QtMSJHMEUCIQDEGuZ8p3cho9hMZU2WEULsk3bk6rVf9we%2BGjsMq9If0gIgV8cHIcsc%2BZFKlvHeIPxmaAeyAPbZovfe%2F503fVnB7IAqswUISRAFGgwwNTkwMDM1NDY4NjUiDFzBdpu0GAx326aOMyqQBRKeDzAJTe4vh2Z7lBMTOw%2Fbq%2B%2FEpzvD6mMbDu1ouTq9%2FDuxTBOIIMAqz6jwi6ZrAvLlOJ7PMDFs0CtXkdYi64M8avD5ahnszsrZqMnaN7OkSa0tt0FKXb%2F0KlLPioPmyDOya9NI9ErV7cc%2FFZy8dhBcMVDFSsZapBr06RDMRZJyO6JsrKEtOTC%2BGrqtwEOsMLULJKECAOudVyszzfuh%2F1emNcvwFwzE5E%2BNCAKNpS1uV3PgzIS93bNhE5pNockl6x2a8A6Dd72lgexeFjtCvau7PdRzHJwAAA0XYGxf9njbkCY3hG4b3riDZshInomJB4%2F%2F2uZMjkXviBWUti6B%2Bfsg%2BF3U7sVOqkurXM4BhzIvPHXTQYL6Yc%2BX4ZXdBlW0%2BB%2B6m5oGMLx3Ju8gQwRoZ6hYXblZtBu2C1kLlEpGyjcV9M2qgcrs613TyE8TrmTHGw72quYDmT%2BwLgcoJujC4uZxLQ2V66gIC7bA2756NlSx9X8sN4q6asGQVpGjHjt0cUzM6x5EnaqnZ%2BdAh9Qpyji2ewwevJQm%2B3C7EsV6VrxiWyggqirfvdrPdPJcmicmT8te8fLamYTQ95qWeLBnN3QB5060udzRXlCtemHzA%2BDNuz4tyAPtjxAb%2Fbf%2FNrbc6ntcqYSGxTPYHMixs1wWsa3VEa7xhTN64dfoH%2BAgPbjJAfE7EdsXNFFvB%2FLqntnpxgOIoz12h6SjsFL5Yq1QyesjauZES9PS6hl0m71LOye7bOl2p7dh2%2B%2F%2BaCkNAUXH0fkvVJSwnbEOrFpB95Ki0qLiFCOSrQRdCCrEyyXPoGNLgrcYuDhgNnFR2qRkmGdJmjJWSMliUdn3GarwwLVIb4JPnCuy%2Bpyk%2FgBQ5y9Gr%2Fu6MIyR97YGOrEBD6SEbAZBvuP%2BuVyH%2FKuyJVGc%2FlRuYUnaIvBl8jaES2XM5GeS1rimJIovq3Arts9K8nERHt2N6lKfho1eMJxYCdTzgb50P9R%2FLk26F1ydO0qc0blC1%2Fh7C9ZU3HoeJWBkR%2BwF%2BxcHRohCDyTwvzzaSLNLKAHhuR1skLDqdj7FbQpFaE5m6cxSnwrBtCndQqoVfoljPsdwza6xMwHSANrLjmpny0Q9zIB8CXqEK%2B5ZfKSf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240908T163101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6DKNDGCS%2F20240908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75750d807d717f93b156e67e51915e20acd2636d2bd13dee1f6b697aefce89f0&hash=3b14a323ae641fd88060e7183d687e5849b9d5dc7d5dfc697df2536ccfb2ec19&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S027858462400188X&tid=spdf-313ad186-a798-4044-a35f-f1d71a0dd776&sid=0310dd8c5b9003484e1869221d6e1e84859fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f165f01525f51525f5458&rr=8c0053919ccf12ee&cc=us) has been accepted to [Prog Neuropsychopharmacol Biol Psychiatry](https://www.sciencedirect.com/journal/progress-in-neuro-psychopharmacology-and-biological-psychiatry). 
+### Research Interests
 
+- Statistical machine learning for complex repeated-measures medical data, with emphasis on subject-specific variability, missingness, and uncertainty.
+- Multimodal integration of neuroimaging, genetics, and behavioral data for mental health and neurodevelopment.
+- Interpretable and data-efficient methods for deriving individual-level biomarkers from incomplete or costly-to-acquire measurements.
 
-# 📝 Publications 
-- **X Li**, G Zhang, G Qu, A Orlichenko, Z Ding…, Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models (Submitted)
-- **X Li**, Y Zhai, T Qin, Z Zhang, Z Zhao, H Deng…, [Personalized Functional Network Connectivity Abnormalities in Chronic Insomnia Disorder](https://watermark02.silverchair.com/kkag001.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2IwggNeBgkqhkiG9w0BBwagggNPMIIDSwIBADCCA0QGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMdQwvCn0MJJmo1Vf4AgEQgIIDFQiR2Q_4tnfma4x6j0daVJ8ap-uyV0ItmgiPYiqEDJuQfOFGKVftqStDjrHpd3crYuzqwwaMPF7KaHBfvx5-pWUVW3WTX021fyl8_l2vtrvEBjSQrjqx1IStOfKprcMpxZT_wrFBXdWMovt38nTva4zxvkwkneT6Nf6N-Ft4k1K2bqLEhNolylOivF-Q6Q-0SymHbjyqvaX354nFW-X-8SThM6H2UVgtrI7xFdshVh4CCc0-QawMD3CUoztIr0JDp2NFLTUC_N5cacLPf466HuxqBl2U1nPsqr8EBG2RpAlWeiVJHsRicdA0kUmsJUb8a21RXlo4avKRIZzeko6y7OBiLEVqaQYRp6WeV_kE5l5D9L6sTJh_bGW301EGdj9KyyHUcYXhfgxguJhmL5ZtZlXPvJ0yZrNGWQp66UhbSCzwwtvV7hUy1bhyEW1qVXL0nH4nfGDjU7EW6oGUbVuV_0Wg5CpvJ-rVj9iGqsgLFAfQp5b1bOAJ-6CZEhaHws5Dwk0y9v9PJRA_GYfUU0MpYdObgkBiWcaQRZazmRW1L143ADOc3LKaUDSp0ryqsVsJ9TwuiK1XAbUZsj17HmDvfngyXtXHMn-dtgYJ4w-4jyfgZRjh4m-VOcenYKmwjjPDxdrWq5kkMpw7nx9QSUiSf3EyoVD5GvE4gK1vW_Qhu9jvIzQqg_dnfeQK0Yzurb0cGT7RuETvsn6Hvjv98uRuHpkrXM2SFoVGMXyxpvR68dEnhxMYkLZArefC3uCHp008EQtHcmyoQRokiqauV-ChBwE6nP8J9_oqey3cYQdAD92eNsroeS0-U-__szgJ6KmGy1uagB3ke3RLhrTa_kQlmZOFjc10VXO5knQVAoxVJ0ug9yL125iTajnHferXV3ruDQqKspyuUJkIO4FEzMFXPfB3Ay-aGo0_rkNArGBICKe7cpkknxlOnUxqnfO6PKhG2pk_7lhg55rbWcLQQ0-SFwPvxYr8OJHuCKgbAOEuoppZIdJtpkRPbRevkCfeHmqA1FPrMpwmSRfmZzKZlWGpvrsz6C_dRA)
-- A Orlichenko, S Ding, E Johns, Z Gu, X Tian, **X Li**… [Intervention on Modifiable Lifestyle and Physiological Factors via Variational Autoencoder Reveals Changes in Functional Connectivity-Mediated Risk for Alzheimer’s Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC12458609/)
-- J Wu, J Yang, Z Yuan, J Zhang, Z Zhang, T Qin, **X Li**, H Deng, L Gong, [Functional Connectome gradient predicts clinical symptoms of chronic insomnia disorder](https://pdf.sciencedirectassets.com/271215/1-s2.0-S0278584624X00056/1-s2.0-S027858462400188X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECAaCXVzLWVhc3QtMSJHMEUCIQDEGuZ8p3cho9hMZU2WEULsk3bk6rVf9we%2BGjsMq9If0gIgV8cHIcsc%2BZFKlvHeIPxmaAeyAPbZovfe%2F503fVnB7IAqswUISRAFGgwwNTkwMDM1NDY4NjUiDFzBdpu0GAx326aOMyqQBRKeDzAJTe4vh2Z7lBMTOw%2Fbq%2B%2FEpzvD6mMbDu1ouTq9%2FDuxTBOIIMAqz6jwi6ZrAvLlOJ7PMDFs0CtXkdYi64M8avD5ahnszsrZqMnaN7OkSa0tt0FKXb%2F0KlLPioPmyDOya9NI9ErV7cc%2FFZy8dhBcMVDFSsZapBr06RDMRZJyO6JsrKEtOTC%2BGrqtwEOsMLULJKECAOudVyszzfuh%2F1emNcvwFwzE5E%2BNCAKNpS1uV3PgzIS93bNhE5pNockl6x2a8A6Dd72lgexeFjtCvau7PdRzHJwAAA0XYGxf9njbkCY3hG4b3riDZshInomJB4%2F%2F2uZMjkXviBWUti6B%2Bfsg%2BF3U7sVOqkurXM4BhzIvPHXTQYL6Yc%2BX4ZXdBlW0%2BB%2B6m5oGMLx3Ju8gQwRoZ6hYXblZtBu2C1kLlEpGyjcV9M2qgcrs613TyE8TrmTHGw72quYDmT%2BwLgcoJujC4uZxLQ2V66gIC7bA2756NlSx9X8sN4q6asGQVpGjHjt0cUzM6x5EnaqnZ%2BdAh9Qpyji2ewwevJQm%2B3C7EsV6VrxiWyggqirfvdrPdPJcmicmT8te8fLamYTQ95qWeLBnN3QB5060udzRXlCtemHzA%2BDNuz4tyAPtjxAb%2Fbf%2FNrbc6ntcqYSGxTPYHMixs1wWsa3VEa7xhTN64dfoH%2BAgPbjJAfE7EdsXNFFvB%2FLqntnpxgOIoz12h6SjsFL5Yq1QyesjauZES9PS6hl0m71LOye7bOl2p7dh2%2B%2F%2BaCkNAUXH0fkvVJSwnbEOrFpB95Ki0qLiFCOSrQRdCCrEyyXPoGNLgrcYuDhgNnFR2qRkmGdJmjJWSMliUdn3GarwwLVIb4JPnCuy%2Bpyk%2FgBQ5y9Gr%2Fu6MIyR97YGOrEBD6SEbAZBvuP%2BuVyH%2FKuyJVGc%2FlRuYUnaIvBl8jaES2XM5GeS1rimJIovq3Arts9K8nERHt2N6lKfho1eMJxYCdTzgb50P9R%2FLk26F1ydO0qc0blC1%2Fh7C9ZU3HoeJWBkR%2BwF%2BxcHRohCDyTwvzzaSLNLKAHhuR1skLDqdj7FbQpFaE5m6cxSnwrBtCndQqoVfoljPsdwza6xMwHSANrLjmpny0Q9zIB8CXqEK%2B5ZfKSf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240908T163101Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6DKNDGCS%2F20240908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75750d807d717f93b156e67e51915e20acd2636d2bd13dee1f6b697aefce89f0&hash=3b14a323ae641fd88060e7183d687e5849b9d5dc7d5dfc697df2536ccfb2ec19&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S027858462400188X&tid=spdf-313ad186-a798-4044-a35f-f1d71a0dd776&sid=0310dd8c5b9003484e1869221d6e1e84859fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f165f01525f51525f5458&rr=8c0053919ccf12ee&cc=us)
+## News
 
+- *2026.11*: Preparing a lightning talk and poster proposal for the IMSI workshop *From Connectomics to Brain Dynamics: Ordinary Differential Equations and Beyond*.
+- *2026.07*: Incoming participant, Summer Institute on Reproducible Research in Brain Imaging Genetics (RR-BIG), University of Minnesota School of Public Health.
+- *2026.04*: Presented a poster at the Tulane Research, Innovation, & Creativity Summit (TRICS) on nonlinear mixed-effects modeling for multi-paradigm fMRI.
+- *2026.03*: Presented a lightning talk and poster at MCBIOS on nonlinear mixed-effects modeling for multi-paradigm fMRI.
+- *2026.03*: Presented a poster at the Brain Institute Retreat on nonlinear mixed-effects modeling for multi-paradigm fMRI.
+- *2026.01*: One paper, [*Personalized Functional Network Connectivity Abnormalities in Chronic Insomnia Disorder*](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkag001/8414074), was accepted to *Psychoradiology*.
+- *2024.08*: One paper, [*Functional Connectome Gradient Predicts Clinical Symptoms of Chronic Insomnia Disorder*](https://www.sciencedirect.com/science/article/pii/S027858462400188X), was accepted to *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.
 
+## Selected Publications
 
-# 🎖 Honors and Awards
-- *2023.09* First Prize Scholarship, Sichuan University
-- *2022.06* Student Mock Entrepreneurship Competition(Third Prize)
-- *2021.09* Pro Bono Future-Citi Youth Competition(Fourth Place)
-- *2021.10* [Interdisciplinary Contest in Modeling](https://www.comap.com/contests/mcm-icm)(Third Prize)
+- **X Li**, Z Ding, Y.-P. Wang, *Learning Subject-Aware Latent Mixed-Effects Models for Multi-Condition fMRI* (in preparation for submission to ICLR 2026).
+- **X Li**, G Zhang, G Qu, A Orlichenko, Z Ding, ..., *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models* (Submitted).
+- **X Li**, Y Zhai, T Qin, Z Zhang, Z Zhao, H Deng, ..., [*Personalized Functional Network Connectivity Abnormalities in Chronic Insomnia Disorder*](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkag001/8414074). *Journal of Psychoradiology*.
+- A Orlichenko, S Ding, E Johns, Z Gu, X Tian, **X Li**, ..., [*Intervention on Modifiable Lifestyle and Physiological Factors via Variational Autoencoder Reveals Changes in Functional Connectivity-Mediated Risk for Alzheimer’s Disease*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12458609/). *medRxiv*.
+- J Wu, J Yang, Z Yuan, J Zhang, Z Zhang, T Qin, **X Li**, H Deng, L Gong, [*Functional Connectome Gradient Predicts Clinical Symptoms of Chronic Insomnia Disorder*](https://www.sciencedirect.com/science/article/pii/S027858462400188X). *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.
 
-# 📖 Education
-- *2024.09 - 2029(expected)*, Ph.D., Biomedical Engineering, Tulane Univeristy, New Orleans, US. 
-- *2020.09 - 2024.06*, Undergraduate, Electrical Engineering College, Sichuan Univeristy, Chengdu, China. 
+For a complete list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=wD0ioQYAAAAJ).
 
-# 💻 Internships
-- *2023.06 - 2023.09*, [Sichuan Changhong Electric Co.,Ltd.](http://www.changhong.com.cn/index.html), China.
+## Presentations & Talks
+
+- *2026.11 (planned)*: IMSI Workshop, *From Connectomics to Brain Dynamics: Ordinary Differential Equations and Beyond* — Lightning talk and poster proposal: *Learning Subject-Aware Latent Mixed-Effects Models for Multi-Condition fMRI*.
+- *2026.04*: Tulane Research, Innovation, & Creativity Summit (TRICS) — Poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
+- *2026.03*: MCBIOS — Lightning talk and poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
+- *2026.03*: Brain Institute Retreat — Poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
+
+## Selected Research Training
+
+- *2026.07 (incoming)*: Summer Institute on Reproducible Research in Brain Imaging Genetics (RR-BIG), Participant, University of Minnesota School of Public Health, Minneapolis, MN. Training in reproducible analysis of large-scale brain imaging genetics data, with emphasis on imaging, behavioral, and cohort-based data integration.
+- *2023.07 -- 2023.08*: Laboratory of Brain Imaging and Pattern Recognition, Visiting Student, University of Electronic Science and Technology of China (UESTC), with Prof. Huafu Chen, Chengdu, China. Intensive training in medical image analysis and neuroimaging methods.
+
+## Honors and Awards
+
+- *2026*: Early-Publication Award in Biomedical Engineering, Tulane University.
+- *2023*: First Prize Scholarship, Sichuan University.
+
+## Education
+
+- *2024.09 -- 2029 (expected)*: Ph.D. in Biomedical Engineering, Tulane University, New Orleans, LA, USA.
+- *2020.09 -- 2024.06*: B.Eng. in Automation, Sichuan University, Chengdu, China.
