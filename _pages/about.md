@@ -15,8 +15,6 @@ Before joining Tulane, I received my B.Eng. in Automation from [Sichuan Universi
 
 # 🧠 Research Interests
 
-- Statistical machine learning Research Interests
-
 - Statistical machine learning for complex repeated-measures medical data, with emphasis on subject-specific variability, missingness, and uncertainty.
 - Multimodal integration of neuroimaging, genetics, and behavioral data for mental health and neurodevelopment.
 - Interpretable and data-efficient methods for deriving individual-level biomarkers from incomplete or costly-to-acquire measurements.
