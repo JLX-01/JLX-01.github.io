@@ -23,13 +23,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Xiaoxuan Li"
   avatar           : "images/kk1.png"
-  bio              : ""
-  location         : "US, China"
+  bio              : "Ph.D. student in Biomedical Engineering at Tulane University working on statistical machine learning for neuroimaging and multimodal health data."
+  location         : "New Orleans, LA, USA"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "l1978190989@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wD0ioQYAAAAJ"
+  email            : "xli85@tulane.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -41,17 +41,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : 
-  dblp             : 
-  orcid            : 
+  linkedin         :
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
