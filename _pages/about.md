@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Xiaoxuan Li. I am a Ph.D. student in Biomedical Engineering at Tulane University, advised by [Prof. Yu-Ping Wang](https://sse.tulane.edu/yu-ping-wang). I am also a member of the [Multiscale Bioimaging and Bioinformatics Laboratory (MBB)](https://www2.tulane.edu/~wyp/Home.html) at Tulane University. My research develops statistically grounded machine learning methods for complex, repeated-measures neuroimaging and multimodal health data, with an emphasis on subject-specific variability, latent and nonlinear mixed-effects modeling, and interpretable, data-efficient biomarker discovery.
+Hi there! I'm Xiaoxuan Li. I am a Ph.D. student in Biomedical Engineering at Tulane University, advised by [Prof. Yu-Ping Wang](https://sse.tulane.edu/yu-ping-wang). I am also a member of the [Multiscale Bioimaging and Bioinformatics Laboratory (MBB)](https://www2.tulane.edu/~wyp/Home.html) at Tulane University. My research develops statistically grounded deep learning methods for complex, repeated-measures neuroimaging and multimodal health data, with an emphasis on subject-specific variability, latent and nonlinear mixed-effects modeling, and interpretable, data-efficient biomarker discovery.
 
 Before joining Tulane, I received my B.Eng. in Automation from [Sichuan University](https://en.scu.edu.cn/), where I worked on psychiatric neuroimaging and individualized functional connectivity analysis in chronic insomnia and related disorders.
 
 
 # 🧠 Research Interests
 
-- Statistical machine learning for complex repeated-measures medical data, with emphasis on subject-specific variability, missingness, and uncertainty.
+- Statistical deep learning for complex repeated-measures medical data, with emphasis on subject-specific variability, missingness, and uncertainty.
 - Multimodal integration of neuroimaging, genetics, and behavioral data for mental health and neurodevelopment.
 - Interpretable and data-efficient methods for deriving individual-level biomarkers from incomplete or costly-to-acquire measurements.
 
