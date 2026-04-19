@@ -43,7 +43,7 @@ For a complete list of publications, please see my [Google Scholar profile](http
 
 # 🎤 Presentations & Talks
 
-- *2026.11 (planned)*: IMSI Workshop, *From Connectomics to Brain Dynamics: Ordinary Differential Equations and Beyond* — Lightning talk and poster proposal: *Learning Subject-Aware Latent Mixed-Effects Models for Multi-Condition fMRI*.
+- *2026.11 (Incoming)*: IMSI Workshop, *From Connectomics to Brain Dynamics: Ordinary Differential Equations and Beyond* — Lightning talk and poster proposal: *Learning Subject-Aware Latent Mixed-Effects Models for Multi-Condition fMRI*.
 - *2026.04*: Tulane Research, Innovation, & Creativity Summit (TRICS) — Poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
 - *2026.03*: MCBIOS — Lightning talk and poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
 - *2026.03*: Brain Institute Retreat — Poster presentation: *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*.
