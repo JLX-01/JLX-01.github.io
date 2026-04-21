@@ -54,7 +54,6 @@ For a complete list of publications, please see my [Google Scholar profile](http
 
 # 🏅 Honors and Awards {#honors-and-awards}
 
-- *2026*: Early-Publication Award in Biomedical Engineering, Tulane University.
 - *2023*: First Prize Scholarship, Sichuan University.
 
 # 📖 Education {#education}
