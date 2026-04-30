@@ -53,7 +53,7 @@ For a complete list of publications, please see my [Google Scholar profile](http
 - *2023.07 -- 2023.08*: Laboratory of Brain Imaging and Pattern Recognition, Visiting Student, University of Electronic Science and Technology of China (UESTC), with Prof. Huafu Chen, Chengdu, China. Intensive training in medical image analysis and neuroimaging methods.
 
 # 🏅 Honors and Awards {#honors-and-awards}
-
+- *2026*: Early-Publication Award in Biomedical Engineering, Tulane University.
 - *2023*: First Prize Scholarship, Sichuan University.
 
 # 📖 Education {#education}
