@@ -33,7 +33,7 @@ Before joining Tulane, I received my B.Eng. in Automation from [Sichuan Universi
 # 📝 Selected Publications {#selected-publications}
 
 - **X Li**, Z Ding, Y.-P. Wang, *Learning Subject-Aware Latent Mixed-Effects Models for Multi-Condition fMRI* (in preparation for submission to ICLR 2026).
-- **X Li**, G Zhang, G Qu, A Orlichenko, Z Ding, ..., *Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models* (Submitted).
+- **X Li**, G Zhang, G Qu, A Orlichenko, Z Ding, ..., [*Modeling Complex Effects and Individual Variability in Multi-Paradigm fMRI with Nonlinear Mixed Models*](https://www.biorxiv.org/content/10.64898/2026.05.16.725673v1.abstract).(Biorxiv).
 - **X Li**, Y Zhai, T Qin, Z Zhang, Z Zhao, H Deng, ..., [*Personalized Functional Network Connectivity Abnormalities in Chronic Insomnia Disorder*](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkag001/8414074). *Journal of Psychoradiology*.
 - A Orlichenko, S Ding, E Johns, Z Gu, X Tian, **X Li**, ..., [*Intervention on Modifiable Lifestyle and Physiological Factors via Variational Autoencoder Reveals Changes in Functional Connectivity-Mediated Risk for Alzheimer’s Disease*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12458609/). *medRxiv*.
 - J Wu, J Yang, Z Yuan, J Zhang, Z Zhang, T Qin, **X Li**, H Deng, L Gong, [*Functional Connectome Gradient Predicts Clinical Symptoms of Chronic Insomnia Disorder*](https://www.sciencedirect.com/science/article/pii/S027858462400188X). *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.
